@@ -1,8 +1,19 @@
 # laboratory-show-case
 
-:toc:
-:toc-title: Summary
+## Quick Starter
 
-== Quick Starter
+### Welcome to Laboratory Show Case
 
-Welcome to Laboratory Show Case
+This poc aims to test some technologies of the java world, among them:
+
+* Spring Boot
+* Spring Data
+* Spring Fox
+* Lombok
+* Hibernate
+* Logback
+* Others
+
+This microservice uses MariaDB as a database, the scripts are in a project that uses flyway.
+
+###
