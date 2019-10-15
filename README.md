@@ -26,5 +26,8 @@ This microservice uses MariaDB as a database, the scripts are in a project that 
   https://github.com/metalgsm/laboratory-ms-commons
 * After the commons project runs, pull the lab-ms project and follow its instructions.
   https://github.com/metalgsm/laboratory-ms
-  
+
+#### Note: If you have problems with the separate project in parent and project, please use the unified project below.
+* https://github.com/metalgsm/laboratory-ms-unified
+
 After the above executions, you will be able to perform a complete laboratory and exam crud.
